@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+authors:
+  - family-names: Chaudhary
+    given-names: Gaurav
+  - family-names: Behera
+    given-names: Laxmidhar
+title: "From Novelty to Imitation: Self-Distilled Rewards for Offline Reinforcement Learning"
+type: article
+journal: "Transactions on Machine Learning Research"
+year: 2025
+url: "https://openreview.net/forum?id=F5K94JI2Jb"
