@@ -1,0 +1,23 @@
+# JAX (install the wheel matching your CUDA version — see below)
+jax
+jaxlib
+flax
+optax
+chex
+distrax
+
+# RL / data
+gym
+d4rl
+numpy
+ml_collections
+absl-py
+pyrallis
+
+# Torch, for the RND module in rnd_torch.py
+torch
+
+# Logging
+tensorboardX
+wandb
+tqdm
